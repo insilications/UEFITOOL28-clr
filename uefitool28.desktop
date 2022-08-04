@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0.28
+Name=UEFITool 28
+Comment=UEFI firmware image viewer and editor
+Exec=UEFITool28
+Icon=uefitool
+Terminal=false
+Categories=Development;System;Utility;HardwareSettings;Electronics;Engineering;
+Keywords=BIOS;
